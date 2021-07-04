@@ -1,0 +1,28 @@
+<!-- templates/viewlab09.html -->
+
+<html>
+    <head> <title> Graphics of Cubic Function </title> </head>
+    <body>
+        <h3 style="color: blue">Drawing the Cubic Function</h3>
+        <p>
+            <b face="Courier" style="color: green"> A x<sup>3</sup> + B x<sup>2</sup> + C x + D </b>
+            for <b style="color: green">x</b> in the range <b>-50</b> to <b>50</b>
+        </p>
+        <form method=post action="">
+            <table>
+                {% for field in template_form %}
+                <tr>
+                    <td> {{ field.name }} </td> <td> {{ field }} </td>
+                </tr>
+                {% endfor %}
+            </table>
+            <p> <input type=submit value=plot> </p>
+        </form>
+
+        <p>
+            {% if template_result != None %}
+            <img src="{{ template_result }}" width=500>
+            {% endif %}
+        </p>
+    </body>
+</html>

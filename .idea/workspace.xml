@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4de30ab9-6520-4581-b6d0-1ce902c9314e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DDP1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Rv97FZrWrStbvfdhBISOJmGvtB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algoritma CV Essentials" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\Python\DDP1\Lab09" />
+      <recent name="C:\Programming\Python\DDP1\Lab09\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.prime factorization">
+    <configuration name="Latihan UAS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DDP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random Shiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Shiz/Latihan UAS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TP2_Achmad Afriza Wibawa_1906315821_FE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DDP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP2/TP2_Achmad Afriza Wibawa_1906315821_FE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TP4_AchmadAfriza_Controller" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DDP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TP4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP4/TP4_AchmadAfriza_Controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WS11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DDP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random Shiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Shiz/WS11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prime factorization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DDP1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random Shiz" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random Shiz/prime factorization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prime factorization" />
+        <item itemvalue="Python.TP2_Achmad Afriza Wibawa_1906315821_FE" />
+        <item itemvalue="Python.TP4_AchmadAfriza_Controller" />
+        <item itemvalue="Python.Latihan UAS" />
+        <item itemvalue="Python.WS11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de30ab9-6520-4581-b6d0-1ce902c9314e" name="Default Changelist" comment="" />
+      <created>1570536533985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570536533985</updated>
+      <workItem from="1573454813823" duration="1116000" />
+      <workItem from="1573458108552" duration="188000" />
+      <workItem from="1573575653510" duration="13852000" />
+      <workItem from="1573629585494" duration="12107000" />
+      <workItem from="1573641917627" duration="280000" />
+      <workItem from="1573643711071" duration="2343000" />
+      <workItem from="1573700692463" duration="5501000" />
+      <workItem from="1573716052551" duration="96000" />
+      <workItem from="1573718626389" duration="247000" />
+      <workItem from="1573738719540" duration="3488000" />
+      <workItem from="1573979860142" duration="5770000" />
+      <workItem from="1574064533212" duration="613000" />
+      <workItem from="1574143620487" duration="2843000" />
+      <workItem from="1574233514385" duration="6746000" />
+      <workItem from="1574662418283" duration="1375000" />
+      <workItem from="1574667757608" duration="66000" />
+      <workItem from="1574749982554" duration="3972000" />
+      <workItem from="1574834896190" duration="4093000" />
+      <workItem from="1575294678298" duration="5973000" />
+      <workItem from="1575302180063" duration="38848000" />
+      <workItem from="1575520992497" duration="452000" />
+      <workItem from="1575524852441" duration="2310000" />
+      <workItem from="1575617963492" duration="4124000" />
+      <workItem from="1575857260503" duration="39000" />
+      <workItem from="1575961883043" duration="111000" />
+      <workItem from="1575963626323" duration="218000" />
+      <workItem from="1576047481619" duration="2900000" />
+      <workItem from="1576052600456" duration="81000" />
+      <workItem from="1576053285643" duration="8848000" />
+      <workItem from="1576664422862" duration="13396000" />
+      <workItem from="1577259559075" duration="2119000" />
+      <workItem from="1578118006485" duration="922000" />
+      <workItem from="1580953424165" duration="870000" />
+      <workItem from="1581563319367" duration="13000" />
+      <workItem from="1595245156321" duration="75000" />
+      <workItem from="1595825782723" duration="22000" />
+      <workItem from="1611835666742" duration="202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DDP1$encoding.coverage" NAME="encoding Coverage Results" MODIFIED="1575298125715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$controller09.coverage" NAME="controller09 Coverage Results" MODIFIED="1574244407483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab09" />
+    <SUITE FILE_PATH="coverage/DDP1$Latihan_UAS.coverage" NAME="Latihan UAS Coverage Results" MODIFIED="1576678770714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$TP3_NaratamaHasminbudiSuryana_1906316396_FE.coverage" NAME="TP3_NaratamaHasminbudiSuryana_1906316396_FE Coverage Results" MODIFIED="1574057408541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/DDP1$budayaKB_controller.coverage" NAME="budayaKB_controller Coverage Results" MODIFIED="1574751919731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$TP4_AchmadAfriza_Controller.coverage" NAME="TP4_AchmadAfriza_Controller Coverage Results" MODIFIED="1577260602381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$random_lalala.coverage" NAME="random lalala Coverage Results" MODIFIED="1574752520493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$KKI_Recursion.coverage" NAME="KKI Recursion Coverage Results" MODIFIED="1574839896210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$proofing_matdis_no_4.coverage" NAME="proofing matdis no 4 Coverage Results" MODIFIED="1576056557540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$TP4_AchmadAfriza_View.coverage" NAME="TP4_AchmadAfriza_View Coverage Results" MODIFIED="1575456981729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$WS7.coverage" NAME="WS7 Coverage Results" MODIFIED="1574234351759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$TP3_lol.coverage" NAME="TP3 lol Coverage Results" MODIFIED="1574064956411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/DDP1$prime_factorization.coverage" NAME="prime factorization Coverage Results" MODIFIED="1580954179709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+    <SUITE FILE_PATH="coverage/DDP1$TP3_Achmad_Afriza_Wibawa_1906315821_FE.coverage" NAME="TP3_Achmad Afriza Wibawa_1906315821_FE Coverage Results" MODIFIED="1576063125560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP3" />
+    <SUITE FILE_PATH="coverage/DDP1$TP2_Achmad_Afriza_Wibawa_1906315821_FE.coverage" NAME="TP2_Achmad Afriza Wibawa_1906315821_FE Coverage Results" MODIFIED="1577260633237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP2" />
+    <SUITE FILE_PATH="coverage/DDP1$Lab08_Achmad_Afriza_Wibawa_1906315821_FE.coverage" NAME="Lab08_Achmad Afriza Wibawa_1906315821_FE Coverage Results" MODIFIED="1573639443787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 08" />
+    <SUITE FILE_PATH="coverage/DDP1$TP2.coverage" NAME="TP2 Coverage Results" MODIFIED="1576062444279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP2" />
+    <SUITE FILE_PATH="coverage/DDP1$tkexample.coverage" NAME="tkexample Coverage Results" MODIFIED="1575383482291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$canvasexample.coverage" NAME="canvasexample Coverage Results" MODIFIED="1575386138611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$TP4_AchmadAfriza_Model.coverage" NAME="TP4_AchmadAfriza_Model Coverage Results" MODIFIED="1575449491604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$tkexample2.coverage" NAME="tkexample2 Coverage Results" MODIFIED="1575385651692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TP4" />
+    <SUITE FILE_PATH="coverage/DDP1$lab10_program_template_pyw.coverage" NAME="lab10_program_template.pyw Coverage Results" MODIFIED="1576062451821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab10" />
+    <SUITE FILE_PATH="coverage/DDP1$WS11.coverage" NAME="WS11 Coverage Results" MODIFIED="1576676207274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random Shiz" />
+  </component>
+</project>

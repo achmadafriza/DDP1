@@ -1,0 +1,14 @@
+001. "Hello"
+002. -- Songwriters: ADELE ADKINS, GREGORY KURSTIN
+003. 
+004. Hello, it's me
+005. I was wondering if after all these years you'd like to meet
+006. To go over everything
+007. They say that time's supposed to heal you
+008. But I ain't done much healing
+009. 
+010. Hello, can you hear me?
+011. I'm in California dreaming about who we used to be
+012. When we were younger and free
+
+The total number of characters of the input file: 330

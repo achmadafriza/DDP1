@@ -1,0 +1,24 @@
+def pangkat_3():
+    print("{:>5} {:>10}\n{} {}".format("N", "N**3", "=" * 5, "=" * 10))
+    for i in range(1, 11):
+        print("{:>5} {:>10}".format(i, i ** 3))
+
+def addInterest(ammount, rate, array):
+    ammount *= (1 + rate)
+    array[0] = "Hai"
+
+def test():
+    ammount = 1000
+    rate = 0.05
+    array = [100]
+    addInterest(ammount, rate, array)
+    print(ammount)
+    print(array)
+
+def cube(x):
+    answer = x * x * x
+    return answer
+
+answer = 4
+result = cube(3)
+print(answer, result)
